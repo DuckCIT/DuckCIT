@@ -1,53 +1,68 @@
-<h2 align="left">Hey there👋, I'm Nguyen Trong Duc (DuckCIT), a Software Engineering student at Eastern International University, passionate about coding and software development.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+DuckCIT;Nguyen+Trong+Duc+-+Code+Craftsman" alt="Typing SVG" />
+</p>
 
-###
+<h1 align="center">DuckCIT - Nguyen Trong Duc</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Wannabe | Tech Explorer</h3>
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=DuckCIT&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckCIT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
+  <a href="#" title="Image click disabled">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
   </a>
 </div>
 
-###
+---
 
-<a href="#">
-  <img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
-</a>
+## 🌌 Who Am I?
+Hey, I’m **Nguyen Trong Duc**, a Software Engineering student at **Eastern International University**, Vietnam. I live and breathe code, turning caffeine into clean, efficient solutions. Whether it’s building web apps, tinkering with algorithms, or diving into new frameworks, I’m always up for a challenge!
 
-###
+- 🎓 **Learning**: Full-stack development, system design, and AI basics.
+- 🛠️ **Building**: Tools and projects to make life easier (or just for fun!).
+- 🌟 **Dream**: Create software that leaves a mark on the world.
 
-<div align="left">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+---
+
+## 🔥 My Tech Arsenal
+<div align="center">
+  <a href="#" title="Image click disabled">
+    <img src="https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,react,git,github,vscode,linux" height="50" alt="Tech Stack"/>
   </a>
 </div>
 
-###
+### Languages & Tools I Love:
+- **Frontend**: JavaScript (React), HTML5, CSS3  
+- **Backend**: Python, Node.js, Java  
+- **Systems**: C++, Linux  
+- **Dev Tools**: Git, GitHub, VS Code  
 
-<div align="left">
+---
+
+## 📈 Stats That Tell My Story
+<div align="center">
+  <a href="#" title="Image click disabled">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuckCIT&theme=dracula&hide_border=true" alt="Streak Stats" height="200"/>
+  </a>
+  <a href="#" title="Image click disabled">
+    <img src="https://github-readme-stats.vercel.app/api?username=DuckCIT&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats" height="200"/>
+  </a>
+  <a href="#" title="Image click disabled">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckCIT&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Languages" height="200"/>
+  </a>
+</div>
+
+---
+
+## 🏆 Featured Projects
+Here are some creations I’m proud of:
+- **[AllReacts for Facebook Stories](https://github.com/duckcit/AllReacts-for-Facebook-Stories)**: Enhance your Facebook Stories experience.
+- **[Portfolio Site](https://duckcit.me/)**: My personal corner on the web—check it out!
+
+*Explore more in my repositories below!*
+
+---
+
+## 🌍 Let’s Connect!
+<div align="center">
   <a href="https://www.instagram.com/tducisduck/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -59,12 +74,20 @@
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎨 Contribution Graph
+<div align="center">
+  <a href="#" title="Image click disabled">
+    <img src="https://github-profile-trophy.vercel.app/?username=DuckCIT&theme=onedark&no-frame=true&margin-w=15" alt="Trophies"/>
+  </a>
+</div>
 
-<a href="#">
-  <img src="https://raw.githubusercontent.com/DuckCIT/DuckCIT/output/snake.svg" alt="Snake animation" />
+<a href="#" title="Image click disabled">
+  <img src="https://raw.githubusercontent.com/DuckCIT/DuckCIT/output/snake.svg" alt="Snake Animation"/>
 </a>
 
-###
+---
+
+## 💡 Random Code Thought
+> "Good code is its own best documentation." – Steve McConnell
