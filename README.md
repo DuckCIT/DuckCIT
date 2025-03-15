@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+DuckCIT;Nguyen+Trong+Duc+-+Code+Craftsman" alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&pause=1000&color=00FA6F&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+DuckCIT;Nguyen+Trong+Duc+-+Code+Craftsman" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">DuckCIT - Nguyen Trong Duc</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Wannabe | Tech Explorer</h3>
 
 <div align="center">
-  <a href="#" title="Image click disabled">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+  <a href="#">
+    <img  height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
   </a>
 </div>
 
