@@ -35,11 +35,6 @@ Hi! I'm **DuckCIT**, a passionate Software Engineering student based in Vietnam.
 
 ---
 
-## ▸ Check it out
-- **[My Portfolio](https://duckcit.me/)**
-
----
-
 ## ▸ Connect With Me
 <div align="center">
   <a href="https://www.instagram.com/tducisduck/" target="_blank">
@@ -47,6 +42,9 @@ Hi! I'm **DuckCIT**, a passionate Software Engineering student based in Vietnam.
   </a>
   <a href="https://www.facebook.com/tducxD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+  <a href="https://duckcit.me/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My+Website&logo=google-chrome&label=&color=6667ab&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 </div>
 
