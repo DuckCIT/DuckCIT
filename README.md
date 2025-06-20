@@ -8,18 +8,8 @@
   <img height="200" src="https://ductruong.com/images/about/night-code.gif" />
 </div>
 
----
+<h2 align="center">Tech Stack & Contact</h2>
 
-## About Me
-Hi, I'm Duck CIT, a Software Engineering. I enjoy building things with code — from simple scripts to full web apps.
-
-I'm currently learning full-stack development and system design, and always looking for better ways to write clean, efficient code.
-
-Outside of coding, I like exploring new tech, solving problems, and quietly improving every day.
-
----
-
-## Tech Stack & Contact
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,py,java,html,css,nodejs,react" height="50" alt="Tech Stack"/>
 </div>
