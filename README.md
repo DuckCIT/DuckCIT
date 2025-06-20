@@ -1,45 +1,32 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&pause=1000&color=00FA6F&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+DuckCIT;Nguyen+Trong+Duc+-+Code+Craftsman" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FA6F&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+day+one;My+code+works...+on+my+machine" />
 </p>
 
-<h1 align="center">DuckCIT - Nguyen Trong Duc</h1>
-<h3 align="center">Software Engineering Student | Code Enthusiast | Tech Explorer</h3>
+<h1 align="center">Duck CIT - Nguyen Trong Duc</h1>
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+  <img height="200" src="https://ductruong.com/images/about/night-code.gif" />
 </div>
 
 ---
 
-## ▸ About Me
-Hi! I'm **DuckCIT**, a passionate Software Engineering student based in Vietnam. I love crafting cool things with code, from web apps to command-line tools.
+## About Me
+Hi, I'm Duck CIT, a Software Engineering. I enjoy building things with code — from simple scripts to full web apps.
 
-- Currently learning: Full-stack dev, system design  
-- Passionate about: Clean code & creative builds  
-- Always curious, always coding
+I'm currently learning full-stack development and system design, and always looking for better ways to write clean, efficient code.
+
+Outside of coding, I like exploring new tech, solving problems, and quietly improving every day.
 
 ---
 
-## ▸ Tech Stack
+## Tech Stack & Contact
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,py,java,html,css,nodejs,react" height="50" alt="Tech Stack"/>
 </div>
 
----
+<br>
 
-## ▸ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckCIT&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DuckCIT&show_icons=true&theme=dracula&hide_border=true" height="200"/>
-</div>
-
----
-
-## ▸ Connect With Me
-<div align="center">
-  <a href="https://www.instagram.com/tducisduck/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
   <a href="https://www.facebook.com/tducxD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30"/>
   </a>
@@ -48,7 +35,3 @@ Hi! I'm **DuckCIT**, a passionate Software Engineering student based in Vietnam.
   </a>
 </div>
 
----
-
-## ▸ Code Thought
-> "Good code is its own best documentation." – Steve McConnell
