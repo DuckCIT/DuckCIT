@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FA6F&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+day+one;My+code+works...+on+my+machine" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+day+one;My+code+works...+on+my+machine" />
 </p>
 
 <h1 align="center">Duck CIT - Nguyen Trong Duc</h1>
@@ -11,7 +11,7 @@
 <h2 align="center">Tech Stack & Contact</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,nodejs,react" height="50" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,react,vscode,git" height="50" alt="Tech Stack"/>
 </div>
 
 <br>
