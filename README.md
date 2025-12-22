@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/tducxD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://duckcit.me/" target="_blank">
+  <a href="https://duckcit.id.vn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My+Website&logo=google-chrome&label=&color=6667ab&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 </div>
