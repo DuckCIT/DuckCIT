@@ -5,7 +5,7 @@
 <h1 align="center">Duck CIT - Nguyen Trong Duc</h1>
 
 <div align="center">
-  <img height="200" src="https://ductruong.com/images/about/night-code.gif" />
+  <img height="200" src="https://github.com/DuckCIT/DuckCIT/blob/main/images/picture.gif?raw=true" />
 </div>
 
 <h2 align="center">Tech Stack & Contact</h2>
