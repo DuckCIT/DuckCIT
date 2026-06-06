@@ -11,7 +11,7 @@
 <h2 align="center">Tech Stack & Contact</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,react,vscode,git" height="50" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,py,java,ts,nodejs,nextjs,prisma,git,docker" height="50" alt="Tech Stack"/>
 </div>
 
 <br>
